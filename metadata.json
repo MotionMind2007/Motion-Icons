@@ -1,0 +1,52 @@
+{
+  "close": {
+    "tags": ["close", "cancel", "remove", "delete", "exit", "cross", "x"],
+    "category": "interface",
+    "creator": "MotionMind2007"
+  },
+  "file": {
+    "tags": ["file", "document", "page", "note", "paper", "text"],
+    "category": "files",
+    "creator": "MotionMind2007"
+  },
+  "folder": {
+    "tags": ["folder", "directory", "file manager", "storage", "container", "outline"],
+    "category": "files",
+    "creator": "MotionMind2007"
+  },
+  "folder-fill": {
+    "tags": ["folder-fill", "directory", "file manager", "storage", "container", "filled"],
+    "category": "files",
+    "creator": "MotionMind2007"
+  },
+  "menu-vertical": {
+    "tags": ["men-vertical", "ellipsis-vertical", "more", "options", "menu", "dots", "kebab-menu"],
+    "category": "interface",
+    "creator": "MotionMind2007"
+  },
+  "menu": {
+    "tags": ["menu", "hamburger", "navigation", "list", "lines"],
+    "category": "interface",
+    "creator": "MotionMind2007"
+  },
+  "play-arrow": {
+    "tags": ["play-arrow", "start", "run", "media", "triangle", "video", "music"],
+    "category": "media",
+    "creator": "MotionMind2007"
+  },
+  "plus": {
+    "tags": ["plus", "add", "create", "new", "increase"],
+    "category": "interface",
+    "creator": "MotionMind2007"
+  },
+  "search": {
+    "tags": ["search", "find", "magnifier", "zoom", "look"],
+    "category": "interface",
+    "creator": "MotionMind2007"
+  },
+  "settings": {
+    "tags": ["settings", "gear", "cog", "preferences", "options", "config"],
+    "category": "system",
+    "creator": "MotionMind2007"
+  }
+}

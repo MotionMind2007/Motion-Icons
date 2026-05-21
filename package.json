@@ -1,0 +1,18 @@
+{
+  "name": "motion-icons",
+  "version": "1.0.2",
+  "description": "A lightweight SVG icon library for Vanilla JavaScript by Motion Mind.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["icons", "svg", "motion-icons", "Motion-Mind", "Saiful Siam"],
+  "author": "MD Saiful Alom Siam",
+  "license": "MIT",
+  "type": "commonjs",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": ">= 12.0.0"
+  }
+}

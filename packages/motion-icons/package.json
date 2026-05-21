@@ -1,0 +1,19 @@
+{
+  "name": "motion-icons",
+  "version": "1.0.2",
+  "description": "A pixel-perfect, dynamic, and open-source icon library package for web and javascript applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node scripts/build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourUsername/motion-icons.git"
+  },
+  "keywords": ["icons", "svg", "motion-icons", "vanilla-js", "javascript"],
+  "author": "MotionMind2007",
+  "type": "module",
+  "types": "src/index.d.ts",
+  "license": "MIT"
+}
