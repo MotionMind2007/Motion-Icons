@@ -32,4 +32,4 @@ npm link motion-icons
 For more info on how to contribute please see the contribution guidelines.
 
 ## License
-Motion Icons is free for personal use and is licensed under the MIT License.
+Motion Icons is free for personal use and is licensed under the [MIT License](LICENSE) License.
