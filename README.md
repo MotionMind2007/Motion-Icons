@@ -4,7 +4,7 @@
 
 # Kivex Icons
 
-Kivex Icons is an open-source icon library that provides lightweight, pixel-perfect, and dynamic SVG icons for modern web applications.
+Kivex(Kinetic Vector Exchange) Icons is an open-source icon library that provides lightweight, pixel-perfect, and dynamic SVG icons for modern web applications.
 
 ## Packages
 

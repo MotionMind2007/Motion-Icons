@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kivex Hybrid Test</title>
+</head>
+<body>
+
+    <div id="html-user-container">
+        <i data-kivex="heart" data-size="32" data-color="00ffff"></i>
+    </div>
+
+    <div id="js-user-container"></div>
+
+    <script type="module">
+        import icons from './src/index.js';
+
+        // 1. Testing Pure JS Object Approach
+        const menuIconString = icons.Terminal.toSvg({ size: 40, color: '#2ed573' });
+        document.getElementById('js-user-container').innerHTML = menuIconString;
+
+        // 2. Testing CDN/HTML Replacement Approach
+        icons.replace();
+    </script>
+</body>
+</html>
